@@ -1,0 +1,21 @@
+.footer-container{
+    position: sticky;
+    bottom: 0;
+    width:100%;
+}
+
+
+.footer-top{
+    height: 150px;
+    background-color: #0DCF61;
+    color: white;
+}
+
+.footer-bottom{
+    height: 50px;
+    background-color: #32a84e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

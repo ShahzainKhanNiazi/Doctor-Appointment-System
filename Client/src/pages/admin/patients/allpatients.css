@@ -1,0 +1,21 @@
+.doctor-patients-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.doctor-patients-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+    
+
+.doctor-patients-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.doctor-patients-middle-text{
+    margin-bottom: 15px;
+}

@@ -1,0 +1,26 @@
+.viewDoc-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.viewDoc-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+
+.viewDoc-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.viewDoc-middle-text{
+    margin-bottom: 15px;
+}
+
+.viewDoc-bottom{
+    width: 85%;
+    display: flex;
+    justify-content: flex-end;
+}

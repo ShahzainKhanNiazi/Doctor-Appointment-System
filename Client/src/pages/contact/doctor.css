@@ -1,0 +1,16 @@
+.contact-container{
+    margin-top: 58px;
+    height: 100vh;
+}
+
+.contact-top{
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contact-middle{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

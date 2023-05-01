@@ -1,0 +1,16 @@
+.patientSettings-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.settings-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+} 
+
+.settings-middle{
+    margin-top: 20px;
+    padding: 40px;
+}

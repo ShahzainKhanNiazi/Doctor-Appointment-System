@@ -1,0 +1,13 @@
+.admin-container{
+    min-height: 100vh;
+    display: flex;
+}
+
+.admin-left{
+    width: 20%
+
+}
+
+.admin-middle{
+    width: 80%
+}

@@ -1,0 +1,13 @@
+.patient-container{
+    min-height: 100vh;
+    display: flex;
+}
+
+.patient-left{
+    width: 20%
+
+}
+
+.patient-middle{
+    width: 80%
+}

@@ -1,0 +1,127 @@
+select{
+    height: 30px;
+}
+
+.manage-schedule-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.manage-schedule-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+    
+
+.manage-schedule-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.manage-schedule-middle-text{
+    margin-bottom: 15px;
+}
+
+.manage-schedule-middle .manage-schedule-working-days{
+
+}
+
+.manage-schedule-working-days .working-days-label{
+
+}
+
+.manage-schedule-working-days .working-days-select{
+    width: 50px;
+}
+
+.manage-schedule-middle .manage-schedule-working-day{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 20px;
+    height: 40px;
+
+}
+
+.manage-schedule-working-day .working-day-div{
+
+}
+
+.working-day-div .working-day-label{
+
+}
+
+.working-day-div .working-day-select{
+    
+}
+
+.manage-schedule-middle .manage-schedule-working-hours{
+    margin-top: 10px;
+}
+
+.manage-schedule-working-hours .working-hours-label{
+
+}
+
+.manage-schedule-working-hours .working-hours-input{
+    width: 80px;
+    height: 30px;
+    
+}
+
+.manage-schedule-middle .create-schedule-button{
+    height: 20px;
+    margin-top: 20px;
+}
+
+.manage-schedule-bottom{
+    margin-left: 40px;
+}
+
+.manage-schedule-bottom-text{
+    margin-bottom: 15px;
+}
+
+.manage-schedule-bottom .create-slot-div{
+
+}
+
+.create-slot-div .create-slot-input{
+    width: 80px;
+    height: 30px;
+}
+
+.create-slot-div .create-slot-button{
+    margin-left: 15px;
+}
+
+.slots-view{
+    margin-top: 10px;
+
+}
+
+.slots-view .slots-div{
+    height: 150px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.slots-div .slot-div{
+    width: 150px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-evenly;
+        
+}
+
+.slot-div .delete-button{
+    border: none;
+    background: white;
+    cursor: pointer;
+}

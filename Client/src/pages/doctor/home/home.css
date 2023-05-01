@@ -1,0 +1,40 @@
+.patientHome-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+    height: 100vh;
+}
+
+.patientHome-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+    
+
+.patientHome-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.patientHome-middle .patient-details{
+    margin-left: 110px;
+    margin-top: 10px;
+
+}
+
+.patient-details > ul > li{
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+    
+}
+
+.patientHome-bottom{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.patientHome-bottom .health-details{
+    margin-left: 130px;
+    margin-top: 10px;
+}

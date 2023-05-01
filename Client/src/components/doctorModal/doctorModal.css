@@ -1,0 +1,13 @@
+.detail-para{
+    margin-bottom: 10px;
+}
+
+.title{
+    font-size: 18px;
+}
+
+.value{
+    font-size: 18px;
+    margin-left: 10px;
+    text-decoration: underline
+}

@@ -1,0 +1,13 @@
+.doctor-container{
+    min-height: 100vh;
+    display: flex;
+}
+
+.doctor-left{
+    width: 20%
+
+}
+
+.doctor-middle{
+    width: 80%
+}

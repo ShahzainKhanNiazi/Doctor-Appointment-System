@@ -1,0 +1,59 @@
+.patientAppointments-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.patientAppointments-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+    
+
+.patientAppointments-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.patientAppointments-middle-text{
+    margin-bottom: 15px;
+}
+
+
+.slot-div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.slot-box{   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 25%;
+}
+
+.slot-box:hover{
+    cursor: pointer;
+    background: grey;
+    color: white;
+}
+
+.slot-box-checked{   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    background: grey;
+    color: white;
+}
+
+/* .slot-box-checked:hover{
+    cursor: pointer;
+    background: white;
+    color: grey;
+} */

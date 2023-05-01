@@ -1,0 +1,30 @@
+.slot-div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-top: 10px;
+}
+
+.slot-box{   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.slot-box:hover{
+    cursor: pointer;
+    background: grey;
+    color: white;
+}
+
+.slot-box-checked{   
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    background: grey;
+    color: white;
+}

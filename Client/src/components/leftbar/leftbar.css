@@ -1,0 +1,93 @@
+.leftbar-container {
+    height: 100vh;
+    background-color: #2f4850;
+    border-radius: 5px;
+    
+}
+
+.leftbar-top{
+    color: white;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px
+}
+
+.leftbar-top .leftbar-top-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.leftbar-list{
+    height: auto;
+    padding: 0;
+}
+
+.leftbar-list .list-row {
+    height: 65px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family:  
+}
+.list-row:hover {
+    cursor: pointer;
+    background-color: #293846;
+}
+
+.list-row .list-icon{
+    flex: 30%;
+    display: grid;
+    place-items: center;
+
+}
+
+.list-row .list-title{
+    flex: 70%;
+}
+
+.menu{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding-top: 10px;
+    padding-left: 15px;   
+    
+}
+
+
+
+
+
+.logout-btn{
+    width:100%;
+    background: transparent;
+    height: 65px;
+    border: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 80px;
+}
+
+.logout-btn:hover{
+    cursor: pointer;
+    background-color: #293846;
+}
+
+.logout-text{
+    margin-left: 5px;
+    font-size: 14px;
+}

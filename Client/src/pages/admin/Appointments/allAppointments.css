@@ -1,0 +1,21 @@
+.patientAppointments-container{
+    background-color: #f5f5f5;
+    padding: 0 10px;
+}
+
+.patientAppointments-top{
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center
+}
+    
+
+.patientAppointments-middle{
+    margin-top: 20px;
+    padding: 40px;
+}
+
+.patientAppointments-middle-text{
+    margin-bottom: 15px;
+}
